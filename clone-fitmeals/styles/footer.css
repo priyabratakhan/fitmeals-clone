@@ -1,0 +1,16 @@
+#footer {
+  /* border: 1px solid black; */
+  height: 400px;
+  display: flex;
+  justify-content: space-around;
+  background-color: #292d35;
+}
+#footer > div {
+  width: 20%;
+  height: 400px;
+  /* border: 1px solid black; */
+  color: white;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
